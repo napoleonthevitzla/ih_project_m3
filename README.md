@@ -105,7 +105,7 @@ This tools help me to works better:
 ### Thanks to 🎁
 
 * Tito Gerva, who works with me with a lot of patience and a bunch of good humor when things are not going well.
-* Pablo Montes, Withouth his help I will still learning my model with the wrong dataset.
+* Pablo Montes, Withouth his help I would still trainin my model with the wrong dataset.
 * Diego Merello, Panda´s Ninja, Github Jedi, Gandalf of diamonds. His advice is always a great choice.     
 * All Ironhack Datamates, smart, solidary and great people!
 * I owe you some beers guys!🍺🍺🍺🍺🍺  
