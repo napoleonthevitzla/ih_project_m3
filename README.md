@@ -1,6 +1,6 @@
 # That´s your diamos price! - IronHack Proyect module 3
 Ironhack Madrid - Data Analytics Part Time - April 2021 - Project Module 3 - Antonio Huerta
-<p align="left"><img src="https://cdn-images-1.medium.com/max/184/1*2GDcaeYIx_bQAZLxWM4PsQ@2x.png"></p>
+<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.popularmechanics.com%2Fscience%2Fenvironment%2Fa22173683%2Fscientists-find-quadrillions-of-tons-of-diamonds-beneath-earths-surface%2F&psig=AOvVaw0rb7EGVZ8m0S57esYLwtQy&ust=1649576282267000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMjXhtW8hvcCFQAAAAAdAAAAABAD"></p>
 
 ## BRIEFING  📌
 
